@@ -14,4 +14,4 @@
 
 ### journey
 
-![ ](img/0.jpg)
+<img style="width:100px;" src="./img/0.jpg"></img>
