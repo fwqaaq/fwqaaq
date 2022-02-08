@@ -1,7 +1,5 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /> <p style="font-style:italic;font-size:2rem">i'm trash, hhh </p>!</h2>
 
-> 𝘓𝘪𝘧𝘦’𝘴 𝘢𝘵𝘵𝘪𝘵𝘶𝘥𝘦 𝘵𝘰 𝘺𝘰𝘶 𝘥𝘦𝘱𝘦𝘯𝘥𝘴 𝘰𝘯 𝘺𝘰𝘶𝘳 𝘢𝘵𝘵𝘪𝘵𝘶𝘥𝘦 𝘵𝘰 𝘪𝘵.
-
 <p style="font-size:1rem">What I love is what I bury,keep trying and keep moving forward</p>
 
 #### Languages and Tools
