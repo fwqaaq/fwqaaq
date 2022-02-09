@@ -11,7 +11,7 @@ jobs:
   github-pull:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: actions/checkout@v2
         with:
           token: ${{ secrets.ACTION_ACCESS }}
           user: jack-Zhang
