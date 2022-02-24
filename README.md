@@ -1,4 +1,4 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /> <p style="font-style:italic;font-size:2rem">i'm trash, hhh </p>!</h2>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /> <p style="font-style:italic;font-size:2rem">i'm trash, hhh! </p></h2>
 
 <p style="font-size:1rem">What I love is what I bury,keep trying and keep moving forward</p>
 
