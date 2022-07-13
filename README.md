@@ -2,7 +2,7 @@
 
 <p style="font-size:1rem">What I love is what I bury,keep trying and keep moving forward</p>
 
-#### Languages and Tools
+### Languages and Tools
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E34C26?style=flat&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%23197CBE?style=flat&logo=css3)
@@ -11,6 +11,12 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-%23579050?style=flat&logo=node.js&logoColor=ffffff)\
 ![VS Code](https://img.shields.io/badge/-VSCode-%230066B8?style=flat&logo=visual-studio-code)
 ![Git](https://img.shields.io/badge/-Git-%23ED5A47?style=flat&logo=git&logoColor=%23ffffff)
+
+### repo
+
+* [Learning CSS](http://mail.zyjcould.ltd/CSS/)
+* [Learning regular](http://mail.zyjcould.ltd/regular/)
+* [node and JS](https://github.com/Jack-Zhang-1314/node_modules-and-JS)
 
 ### self
 
