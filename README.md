@@ -14,8 +14,8 @@
 
 ### repo
 
-* [Learning CSS](http://mail.zyjcould.ltd/CSS/)
-* [Learning regular](http://mail.zyjcould.ltd/regular/)
+* [Learning CSS](http://www.fwqaq.us/CSS/)
+* [Learning regular](http://www.fwqaq.us/regular/)
 * [node and JS](https://github.com/Jack-Zhang-1314/node_modules-and-JS)
 
 ### self
