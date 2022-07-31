@@ -20,6 +20,8 @@
 
 ### self
 
+<details>
 ![ ](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jack-Zhang-1314&theme=tokyonight)
 ![ ](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jack-Zhang-1314&theme=tokyonight)
 ![ ](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jack-Zhang-1314&theme=tokyonight)
+</details>
