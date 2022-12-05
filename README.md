@@ -16,14 +16,14 @@
 
 * [Learning CSS](http://www.fwqaq.us/CSS/)
 * [Learning regular](http://www.fwqaq.us/regular/)
-* [node and JS](https://github.com/Jack-Zhang-1314/node_modules-and-JS)
-* [lemoji](https://github.com/Jack-Zhang-1314/lemoji)
+* [node and JS](https://github.com/fwqaaq/node_modules-and-JS)
+* [lemoji](https://github.com/fwqaaq/lemoji)
 
 ### self
 
 <details>
   <summary> this is my github show </summary>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jack-Zhang-1314&theme=tokyonight">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jack-Zhang-1314&theme=tokyonight">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jack-Zhang-1314&theme=tokyonight">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fwqaaq&theme=tokyonight">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fwqaaq&theme=tokyonight">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fwqaaq&theme=tokyonight">
 </details>
