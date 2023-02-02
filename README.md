@@ -16,7 +16,7 @@
 
 * [Learning CSS](http://www.fwqaq.us/CSS/)
 * [Learning regular](http://www.fwqaq.us/regular/)
-* [node and JS](https://github.com/fwqaaq/node_modules-and-JS)
+* [coding and nas](https://github.com/fwqaaq/coding_and_nas)
 * [lemoji](https://github.com/fwqaaq/lemoji)
 
 ### self
