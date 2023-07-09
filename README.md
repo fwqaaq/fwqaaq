@@ -19,7 +19,7 @@
 ### Study
 
 * [coding and nas](https://github.com/fwqaaq/coding_and_nas)
-* [Rust Atomics and Locks](https://github.com/fwqaaq/Rust_Atomics_and_Locks)
+* [Rust Atomics and Locks](https://github.com/rustcc/Rust_Atomics_and_Locks)
 
 ### Who
 
