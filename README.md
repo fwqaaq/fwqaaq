@@ -19,9 +19,10 @@
 ### Study
 
 * [coding and nas](https://github.com/fwqaaq/coding_and_nas)
+* [Scripts](https://github.com/fwqaaq/scripts)
 * [Rust Atomics and Locks](https://github.com/rustcc/Rust_Atomics_and_Locks)
 
-### Who
+### Show
 
 <details>
   <summary>This is my github show! You can take a look at it.</summary>
