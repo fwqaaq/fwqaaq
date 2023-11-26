@@ -1,4 +1,6 @@
-<img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /> <p style="font-style:italic;font-size:2rem">I don't konw, I don't understand, I don't get it !!!</p>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" /> <em>I don't konw, I don't understand, I don't get it !!!</em></h2>
+
+I have a dream.
 
 ## Who
 
