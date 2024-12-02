@@ -29,7 +29,7 @@
 ## Repo
 
 * [Coding and nas](https://github.com/fwqaaq/coding_and_nas)
-* [Scripts](ttps://github.com/fwqaaq/scripts)
+* [Scripts](https://github.com/fwqaaq/scripts)
 * [Rust Atomics and Locks](https://github.com/rustcc/Rust_Atomics_and_Locks)
 
 ## Show
