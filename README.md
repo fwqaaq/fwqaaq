@@ -28,9 +28,11 @@
 
 ## Repo
 
-* [Coding and nas](https://github.com/fwqaaq/coding_and_nas)
+* [Coding and Nas](https://github.com/fwqaaq/coding_and_nas)
 * [Scripts](https://github.com/fwqaaq/scripts)
 * [Rust Atomics and Locks](https://github.com/rustcc/Rust_Atomics_and_Locks)
+* [Website for Cloudflare R2](https://github.com/fwqaaq/website-r2)
+* [Telegram to R2](https://github.com/fwqaaq/telegram-to-r2)
 
 ## Show
 
